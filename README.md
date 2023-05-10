@@ -1,4 +1,4 @@
-# Credit_Card_Fraud_Detection
+# Credit Card Fraud Detection
 
 The logistic regression model was selected as the final model as it captured the highest percentage of fraudulent transactions at 96%. Deploying a model with the highest fraud recall performance would likely save time and money for the business and its customers by increasing the opportunity to take action on a larger volume of transactions that are truly fraudulent. It would also help create and strengthen a reputation for the company as one that cares for the security of its customers and takes effective action in managing cases of fraud.  
 
