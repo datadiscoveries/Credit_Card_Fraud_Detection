@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 
 **Analysis:**<br>
-The goal of this analysis is to find the best model for capturing fraudulent transactions on a data set of 30 features, while maintaing a very low level of false fraud predictions.
+The goal of this analysis is to find the best model for capturing fraudulent transactions on a data set of 30 features, while maintaing a very low allowance of false fraud predictions.
 
 
 **Findings:**<br>
