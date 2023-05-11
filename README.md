@@ -11,16 +11,16 @@ This analysis found that the neural network also captured 96% of fraudulent tran
 
 The analysis followed this process:<br>
 * Preprocessing
-* 28 of the 30 features have already been transformed with PCA for confidentiality reasons
-Charted feature distributions to look for more data transformation opportunities
-Checked for multicollinearity 
-Charted summary statistics to look for more data transformation opportunities
-Rescaled two features
-Shuffled and split the data into train, test, and validation sets
-Created and compared a few models
-Balanced and split the data
-Created and compared several models on the balanced the data sets
-Precision and recall were used as performance metrics rather than accuracy because the data is very imbalanced, and both false positive and false negative implications significantly impact the business
+  * 28 of the 30 features have already been transformed with PCA for confidentiality reasons
+  * Charted feature distributions to look for more data transformation opportunities
+  * Checked for multicollinearity 
+  * Charted summary statistics to look for more data transformation opportunities
+  * Rescaled two features
+* Shuffled and split the data into train, test, and validation sets
+* Created and compared a few models
+* Balanced and split the data
+* Created and compared several models on the balanced the data sets
+  * Precision and recall were used as performance metrics rather than accuracy because the data is very imbalanced, and both false positive and false negative implications significantly impact the business
 
 
 
