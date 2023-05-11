@@ -16,7 +16,7 @@ This analysis found that the neural network also captured 96% of fraudulent tran
   * Checked for multicollinearity 
   * Charted summary statistics to look for more data transformation opportunities
   * Rescaled two features
-* Shuffled and split the data into train, test, and validation sets
+  * Shuffled and split the data into train, test, and validation sets
 * Created and compared a few models
 * Balanced and split the data
 * Created and compared several models on the balanced data sets
