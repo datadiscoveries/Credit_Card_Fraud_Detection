@@ -1,13 +1,13 @@
 # Credit Card Fraud Detection
 
 **Analysis:**<br>
-The goal of this analysis is to find the best model for capturing fraudulent transactions on a data set of 30 features, while maintaing a very low allowance of false fraud predictions.
+The goal of this analysis is to find the best model for capturing fraudulent transactions on a data set of 30 features, while minimizing false fraud predictions.
 
 
 **Findings:**<br>
-The logistic regression model was selected as the final model as it captured the highest percentage of fraudulent transactions at 96%. This high capture rate is valuable as it can help reduce financial losses by automating the detection of a larger number of fraud transactions before they are processed, reduce chargeback costs, build trust and loyalty with customers, increase the business's competative edge, help avoid regulatory penalties and legal fees, deter fraudsters, and help lower insurance costs.  
+The logistic regression model was selected as the final model as it captured the highest percentage of fraudulent transactions at 96%. This high capture rate is valuable as it allows for an increased number of automated fraud detections before these transactions are processed, reducing chargeback costs associated with fraud disputes. Additionally, it builds trust and loyalty with customers, enhances the business's competative edge, minimizes regulatory penalties and legal fees, deters fraudsters, and offers a strengthened position for fraud insurance negotiations.  
 
-This analysis found that the neural network also captured 96% of fraudulent transactions, but and logistic regression models were same, the logistic regression model was determined to be more effective because it produces a lower rate of false fraud predictions. Its fraud precision rate is 94%, while the neural network's rate is only 89%. This improved fraud precision performance is valuable in that it can help the business allocate less resources towards investigating and resolving false fraud cases, reduce complications due to false fraud declined transactions and freezes, and improve customer satisfaction and loyalty.
+This analysis found that the neural network also captured 96% of fraudulent transactions, however the logistic regression model was selected because it produces a lower rate of false fraud predictions. Its fraud precision rate is 94%, while the neural network's rate is only 89%. This improved fraud precision performance is valuable in that it can help the business allocate fewer resources towards investigating and resolving false fraud cases, reduce complications due to false fraud declined transactions and freezes, and enhance customer satisfaction and loyalty.
 
 **Process:**<br>
 * Preprocessing
