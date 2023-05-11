@@ -9,7 +9,7 @@ The logistic regression model was selected as the final model as it captured the
 
 This analysis found that the neural network also captured 96% of fraudulent transactions, but and logistic regression models were same, the logistic regression model was determined to be more effective because it produces a lower rate of false fraud predictions. Its fraud precision rate is 94%, while the neural network's rate is only 89%. This improved fraud precision performance is valuable in that it can help the business allocate less resources towards investigating and resolving false fraud cases, reduce complications due to false fraud declined transactions and freezes, and improve customer satisfaction and loyalty.
 
-Process:<br>
+**Process:**<br>
 * Preprocessing
   * 28 of the 30 features have already been transformed with PCA for confidentiality reasons
   * Charted feature distributions to look for more data transformation opportunities
