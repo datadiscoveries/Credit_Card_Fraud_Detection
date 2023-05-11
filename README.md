@@ -19,8 +19,8 @@ This analysis found that the neural network also captured 96% of fraudulent tran
 * Shuffled and split the data into train, test, and validation sets
 * Created and compared a few models
 * Balanced and split the data
-* Created and compared several models on the balanced the data sets
-  * Precision and recall were used as performance metrics rather than accuracy because the data is very imbalanced, and both false positive and false negative implications significantly impact the business
+* Created and compared several models on the balanced data sets
+  * Precision and recall were used as performance metrics rather than accuracy because the data is very imbalanced, and both misclassification types (false positives and false negatives) have significant business implications
 
 
 
