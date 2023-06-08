@@ -20,7 +20,7 @@ The _neural network_ model also captured 96% of fraud transactions, however the 
 * Created and compared a few models
 * Balanced and split the data
 * Created and compared several models on the balanced data sets
-  * Precision and recall were used as performance metrics rather than accuracy because the data is very imbalanced, and both misclassification types (false positives and false negatives) have significant business implications
+  * Precision and recall were used over accuracy to measure performance because the data was very imbalanced, and both misclassification types (false positives and false negatives) have significant business implications
 
 
 
