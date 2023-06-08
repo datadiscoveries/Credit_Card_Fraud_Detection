@@ -12,7 +12,7 @@ The _neural network_ model also captured 96% of fraud transactions, however the 
 **Coding and Analysis Process:**<br>
 * Preprocessing
   * 28 of the 30 features in the dataset were transformed with PCA prior to this analysis for confidentiality reasons
-  * Charted feature distributions to look for more data transformation opportunities
+  * Charted feature distributions to explore data transformation opportunities
   * Checked for multicollinearity 
   * Charted summary statistics to look for more data transformation opportunities
   * Rescaled two features
