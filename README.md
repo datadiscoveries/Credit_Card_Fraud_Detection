@@ -9,7 +9,7 @@ The **logistic regression model** was the most effective model for this data set
 
 The _neural network_ model also captured 96% of fraud transactions, however the _logistic regression_ model had an overall higher performance because it **_resulted in fewer false fraud predictions, with a  fraud precision rate of 94%_**, rather than 89% with the neural network model. An improved fraud precision performance is valuable because it improves operational efficiencies by allowing the credit card business to allocate fewer resources towards investigating and resolving costly false fraud cases. Additionally, it reduces customer frustrations from declined transactions and freezes attributed to false fraud predictions, enhancing customer loyalty and improving the business's reputation. Other models in the analysis with a fraud precision rate of 100% would have likely predicted all, or nearly all, of their fraud predictions correctly on new real-world transactions. However, those models allowed too many actual fraud transactions to go undetected becuase the highest fraud capture rate among these models was only 86%. 
 
-**Coding and Analysis Process:**<br>
+**Coding and Analysis Steps:**<br>
 * Preprocessing
   * 28 of the 30 features in the dataset were transformed with PCA prior to this analysis for confidentiality reasons
   * Charted feature distributions to explore data transformation opportunities
