@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 
 **Goal:**<br>
-Develop an effective model to capture fraudulent transactions using a data set of 30 features, while minimizing false fraud predictions.
+Develop an effective model to capture fraudulent transactions within a data set of 30 features, while minimizing false fraud predictions.
 
 
 **Findings:**<br>
