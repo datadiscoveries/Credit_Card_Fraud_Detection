@@ -11,7 +11,7 @@ As an alternative model option, the _neural network_ model also captured 96% of 
 
 The analysis explored the performance of additional models resulting in a perfect fraud precision rate of 100%. Deployment of any of these models would likely produce the most accurate predictions within new transactions. However, the highest fraud capture rate among these models was only 86%. This would result in far too many undetected actual fraud transactions, so it cannot be used. 
 
-**Steps Taken and Model Developmnet within Python Script:**<br>
+**Steps Taken and Model Development within Python Script:**<br>
 * Preprocessing steps
   * Transformed 28 of the 30 variables in the dataset with PCA prior to the analysis for confidentiality reasons
   * Charted feature distributions to explore data transformation opportunities
