@@ -9,7 +9,7 @@ The **logistic regression model** was the most effective model for this data set
 
 As a runner-up, the _neural network_ model also captured 96% of fraud transactions. However, the logistic regression model performed better overall because it resulted in fewer false fraud predictions. **It produced an impressive fraud precision rate of 94%**, 5 percentage points higher than that of the neural network model. An improved fraud precision performance is valuable for both the bank and customer because it reduces costly false fraud resolution cases. It also minimizes customer frustrations due to unnecessary freezes and declined transactions, strengthening customer loyalty.
 
-The analysis explored the performance of additional models resulting in a perfect fraud precision rate of 100%. Deployment of any of these models would likely result in the most accurate classifications on new transactions data, but the highest fraud capture rate among these models was only 86%. This would leave far too many fraud transactions undetected when compared to the logistic regression model, so it should not be used. 
+The analysis assessed additional models with a perfect fraud precision rate of 100%, but the highest fraud capture rate among them was only 86%. This would leave far too many fraud transactions undetected when compared to the logistic regression model, so it should not be used. 
 
 **Steps Taken and Model Development within Python Script:**<br>
 * Preprocessing steps
