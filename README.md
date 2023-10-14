@@ -22,7 +22,7 @@ The analysis explored the performance of additional models resulting in a perfec
 * Created and compared a few models
 * Balanced and split the data
 * Created and compared several models on the balanced data sets
-  * Precision and recall were used to measure performance, rather than accuracy, because the data was very imbalanced. Additionally, both misclassification types (false positives and false negatives) have significant business implications
+  * Precision and recall were used to measure performance, rather than accuracy, because the data was very imbalanced. Additionally, both misclassification types, false positives and false negatives, have significant business implications
 
 
 
