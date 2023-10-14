@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 
 **Goal:**<br>
-Develop a Python model that accurately and effectively captures fraudulent credit card transactions within a data set of 30 data variables, while minimizing false fraud predictions.
+Create a Python model that effectively captures fraudulent credit card transactions within a data set of 30 variables, while minimizing false fraud predictions.
 
 
 **Findings:**<br>
