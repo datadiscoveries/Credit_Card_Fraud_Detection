@@ -13,7 +13,7 @@ The analysis explored the performance of additional models resulting in a perfec
 
 **Coding and Analysis Steps:**<br>
 * Preprocessing steps
-  * 28 of the 30 variables in the dataset were transformed with PCA prior to this analysis for confidentiality reasons
+  * Transformed 28 of the 30 variables in the dataset with PCA prior to the analysis for confidentiality reasons
   * Charted feature distributions to explore data transformation opportunities
   * Checked for multicollinearity 
   * Charted summary statistics to look for more data transformation opportunities
