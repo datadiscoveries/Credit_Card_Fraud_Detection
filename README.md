@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 
 **Goal:**<br>
-Create a Python model that captures the highest percentage of fraudulent credit card transactions within a data set of 30 variables, while minimizing false fraud predictions. Both "capture" and "accuracy" metrics have important meaning in this analysis. For example, consider a model classifying every transaction as fraudulent. It would successfully capture 100% of fraudulent transactions, but it would also predict almost every transaction inaccurately, resulting in every transaction being investigated as potential fraud. The goal is to assess both metrics to determine the best model.
+Create a Python model that captures the highest percentage of fraudulent credit card transactions within a data set of 30 variables, while minimizing false fraud predictions. Both "capture" and "accuracy" metrics have important meaning in this analysis. For example, a model classifying every transaction as fraudulent would successfully capture 100% of fraudulent transactions, but it would also predict almost every transaction inaccurately, resulting in every transaction being investigated as potential fraud. The goal is to assess both metrics to determine the best model.
 
 
 **Findings:**<br>
